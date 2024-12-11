@@ -6,7 +6,19 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h3 align="left">• 🏫 Pursuing my Bachelors degree on CSE in Military Institute of Science and Technology, Dhaka. <br>•  🧑‍💼 Have keen interest on Software Engineering and Product Management.<br>• 🧑‍💻 Currently learning Tensorflow, Django.<br>• 📮 How to reach me : sabitsiraji@gmail.com</h3>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -18,6 +30,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sabit166&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabit166&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -58,6 +78,14 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 

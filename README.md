@@ -10,7 +10,8 @@
 
 ###
 
-<h3 align="left">• 🏫 Pursuing my Bachelors degree on CSE in Military Institute of Science and Technology, Dhaka. <br>•  🧑‍💼 Have keen interest on Software Engineering and Product Management.<br>• 🧑‍💻 Currently learning Tensorflow, Django.<br>• 📮 How to reach me : sabitsiraji@gmail.com</h3>
+<h3 align="left">• 🏫 Pursuing my Bachelors degree on CSE in Military Institute of Science and Technology, Dhaka. <br>•  🧑‍💼 Have keen interest on Software Engineering and Product Management.<br>• 🧑‍💻 Currently learning Tensorflow, Django.<br>• 📮 How to reach me: <a href="mailto:sabitsiraji@gmail.com">sabitsiraji@gmail.com</a>
+</h3>
 
 ###
 

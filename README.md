@@ -1,119 +1,121 @@
-<h1 align="center">💫 ABOUT ME:</h1>
+<div align="center">
 
-###
+# 🌐 SABIT SIRAJI 🌐
+### `> Software Developer & AI Agent Architect`
 
-<h2 align="center">👋 Passionate Computer Science Enthusiast 👋</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Digital+Matrix;CSE+Student+%7C+MIST;AI+Agent+Developer;Computer+Science+Enthusiast;Exploring+the+Future+of+Tech" alt="Typing SVG" />
 
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">• 🏫 Pursuing my Bachelors degree on CSE in Military Institute of Science and Technology, Dhaka. <br>•  🧑‍💼 Have keen interest on Software Engineering and Product Management.<br>• 🧑‍💻 Currently learning Tensorflow, Django.<br>• 📮 How to reach me: <a href="mailto:sabitsiraji@gmail.com">sabitsiraji@gmail.com</a>
-</h3>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">📊 My GitHub Summary:</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabit166&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabit166&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<p align="left"></p>
+<img align="right" alt="Cyberpunk Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-###
+### 🔮 **NEURAL NETWORK PROFILE**
+```python
+class SabitSiraji:
+    def __init__(self):
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.education = "CSE @ Military Institute of Science & Technology"
+        self.interests = ["Computer Science", "AI Agent Development"]
+        self.status = "Exploring the digital frontier"
+        self.mission = "Building intelligent systems for tomorrow"
+    
+    def get_vision(self):
+        return "Transforming ideas into AI-powered reality"
+```
 
-<p align="left"></p>
+<br clear="both">
 
-###
+---
 
-<h2 align="left">🧑‍💻 I'VE WORKED WITH:</h2>
+<div align="center">
 
-###
+## 🚀 **SYSTEM METRICS** 🚀
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="39" alt="anaconda logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="39" alt="arduino logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="39" alt="bash logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="39" alt="canva logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="39" alt="cplusplus logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="39" alt="intellij logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="39" alt="kaggle logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="39" alt="postgresql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="39" alt="pandas logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="39" alt="numpy logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Sabit166&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0080&text_color=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabit166&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" height="180"/>
+
 </div>
 
-###
+---
 
-<p align="left"></p>
+<div align="center">
 
-###
+## ⚡ **TECH ARSENAL** ⚡
 
-<p align="left"></p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,git,vscode,linux,arduino&theme=dark" />
 
-###
-
-<h2 align="left">🤝 CONNECT WITH ME AT :</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/sabit.siraji" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="43" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/sabit7400/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="43" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sabit-siraji-1732b9259/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="43" alt="linkedin logo"  />
-  </a>
-  <a href="01558421820" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="43" alt="telegram logo"  />
-  </a>
-  <a href="01558421820" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="43" alt="whatsapp logo"  />
-  </a>
-  <a href="sabitsiraji@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="43" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="43" alt="discord logo"  />
 </div>
 
-###
+---
+
+<div align="center">
+
+## 🎯 **CURRENT MISSION OBJECTIVES**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=🤖+Developing+Intelligent+AI+Agents;🧠+Mastering+Machine+Learning+Algorithms;🔬+Exploring+Deep+Learning+Architectures;💻+Building+Next-Gen+Software+Solutions" alt="Mission Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **ACTIVITY FEED** 🌟
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabit166&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 **CONNECT TO THE NETWORK** 📡
+
+<a href="mailto:sabitsiraji@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/sabit-siraji-1732b9259/">
+  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" />
+</a>
+<a href="https://www.facebook.com/sabit.siraji">
+  <img src="https://img.shields.io/badge/Facebook-FF0080?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.instagram.com/sabit7400/">
+  <img src="https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 **DIGITAL PLAYGROUND** 🎮
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+realm!;Let's+build+the+future+together!;The+Matrix+awaits..." alt="Footer Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Sabit166&color=00ff41&style=for-the-badge&label=VISITORS" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer" width="100%"/>
+</div>

@@ -9,8 +9,6 @@
 
 ---
 
-<img align="right" alt="Cyberpunk Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ### 🔮 **NEURAL NETWORK PROFILE**
 ```python
 class SabitSiraji:
@@ -25,7 +23,13 @@ class SabitSiraji:
         return "Transforming ideas into AI-powered reality"
 ```
 
+<div align="center">
+<img alt="Cyberpunk Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
 <br clear="both">
+
+&nbsp;
 
 ---
 
